@@ -1,1 +1,3 @@
-Run Time analysis of Leetcode problems:
+<center> 
+  FOR SELF_COMPREHENSION THROUGH YOUTUBE AND CHATGPT
+</center>
